@@ -250,7 +250,7 @@ main, exiting
 
 # Output
 
----
+![Output Image](2022.png)
 
 # Result
 

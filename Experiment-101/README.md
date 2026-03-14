@@ -38,7 +38,7 @@ To create, build, and execute a simple “Hello World” program in QNX on two t
 - QNX cross-compiler toolchain (`qcc`)
 - Target connection through:
   - Network (preferred) **or**
-  - Serial console
+  - Serial console 
 
 ---
 

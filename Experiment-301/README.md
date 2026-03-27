@@ -249,6 +249,15 @@ MsgSend return status: 0
 
 # Output
 
+### Server side
+
+<img width="644" height="162" alt="image" src="https://github.com/user-attachments/assets/b17d055b-bd8e-427d-911a-e4647a0af2f4" />
+
+### Client side
+
+
+
+
 ---
 
 # Result

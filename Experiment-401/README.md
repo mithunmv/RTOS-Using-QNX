@@ -105,6 +105,12 @@ Interrupt received! , Count is 4
 # Output
 ---
 
+# Output 
+
+![Output Image](exp402.png)
+
+---
+
 # Result
 
 Thus, the **hardware interrupt handling mechanism in QNX** was successfully implemented using `InterruptAttach()` and `InterruptWait()`.

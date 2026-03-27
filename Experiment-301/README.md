@@ -255,7 +255,7 @@ MsgSend return status: 0
 
 ### Client side
 
-
+<img width="644" height="193" alt="image" src="https://github.com/user-attachments/assets/77c63481-3fb4-4496-9168-2c1bdfb78d3f" />
 
 
 ---

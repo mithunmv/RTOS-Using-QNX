@@ -102,12 +102,10 @@ Interrupt received! , Count is 4
 *(The counter increases each time the interrupt occurs.)*
 ---
 
-# Output
----
-
 # Output 
 
-![Output Image](exp402.png)
+<img width="615" height="660" alt="image" src="https://github.com/user-attachments/assets/fd63fc74-b6a3-4e2c-9359-9b8c690d8c97" />
+
 
 ---
 
